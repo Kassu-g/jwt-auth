@@ -1,15 +1,15 @@
 {
   "compilerOptions": {
-    "outDir": "./dist",    // Output directory for JavaScript files
-    "rootDir": "./src",    // Source directory for TypeScript files
-    "target": "ES6",       // JavaScript version to target
-    "module": "CommonJS",  // Module system to use
-    "strict": true         // Enable strict type checking
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "target": "ES6",
+    "module": "CommonJS",
+    "strict": true
   },
   "include": [
-    "src/**/*.ts"          // Include all .ts files in src directory
+    "src/**/*.ts"
   ],
   "exclude": [
-    "node_modules",        // Exclude node_modules
+    "node_modules",
   ]
 }

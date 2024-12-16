@@ -1,5 +1,5 @@
 {
-  "name": "jwt-authentication-ts",
+  "name": "jwt-authentication-js",
   "version": "1.0.0",
   "description": "A simple app for user registration with JWT and bcrypt password hashing",
   "main": "dist/server.js",
