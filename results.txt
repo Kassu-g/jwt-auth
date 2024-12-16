@@ -1,0 +1,6 @@
+[
+  {
+    "email": "e@saaaaaa.com",
+    "password": "$2a$06$QCIrluxLbjffjsqri3noDujg45GlVon7jzMDbZvZnLON5sXbX/nDa"
+  }
+]
