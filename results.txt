@@ -1,6 +1,6 @@
 [
   {
     "email": "e@saaaaaa.com",
-    "password": "$2a$06$QCIrluxLbjffjsqri3noDujg45GlVon7jzMDbZvZnLON5sXbX/nDa"
+    "password": "$2a$06$MHR/DvO2rf7hRx6AOSs3Q.Es4EEszs4YB07lDO4TQ1V.k7WT/8KfG"
   }
 ]
