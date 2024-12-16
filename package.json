@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node dist/server.js",
     "build": "tsc",      
-    "dev": "tsc --watch"   
+    "dev": "tsc --watch"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
